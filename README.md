@@ -1,6 +1,6 @@
 # Chapter3-Data-Matrices
 
-Data used in this dissertation chapter were generated using a copy of the Phenoscape Knowledgebase from 03/26/2019.
+Data used in this dissertation chapter were generated using OntoTrace software (https://kb.phenoscape.org/#/ontotrace) readable in Phenex v.1.21.0 (https://github.com/phenoscape/Phenex).
 
 
 
